@@ -1,0 +1,9 @@
+.idea
+*.pyc
+*.pyo
+app.db
+search.db
+flask
+db_repository
+.DS_Store
+venv
